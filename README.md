@@ -1,6 +1,6 @@
 # Bongard-OpenWorld
 
-This is the official project page of [Bongard-OpenWorld](https://joyjayng.github.io/Bongard-OpenWorld.github.io/) (Accepted to ICLR 2024).
+This is the official project page of [Bongard-OpenWorld](https://rujiewu.github.io/Bongard-OpenWorld.github.io/) (Accepted to ICLR 2024).
 
 If you find Bongard-OpenWorld useful for your work please cite:
 ```
